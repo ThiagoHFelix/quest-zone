@@ -1,6 +1,6 @@
 # 🛒 Quest Zone — Loja Online de Games (Projeto de Estudo)
 
-![Screenshot da Home](screenshot-home.png)
+![Screenshot da Home](https://github.com/user-attachments/assets/f6332fcd-23fd-4148-871d-8287cf433b33)
 
 **Quest Zone** é uma loja online de games desenvolvida com o objetivo de **estudo e prática de React** e outras tecnologias modernas de frontend.
 
@@ -75,5 +75,5 @@ quest-zone/
 
 > Imagem armazenada em `public/screenshot-home.png`
 
-![Screenshot da Home](screenshot-home.png)
+![Screenshot da Home](https://github.com/user-attachments/assets/f6332fcd-23fd-4148-871d-8287cf433b33)
 

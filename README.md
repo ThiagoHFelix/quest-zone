@@ -45,22 +45,6 @@ yarn dev
 pnpm dev
 ```
 
----
-
-## 🗂️ Estrutura do Projeto
-
-```
-quest-zone/
-├── app/              # Páginas e rotas do Next.js (App Router)
-├── components/       # Componentes reutilizáveis (Header, Button, Carousel, etc.)
-├── public/           # Arquivos estáticos (imagens, ícones, screenshot)
-├── styles/           # Estilização global e utilitários Tailwind
-├── package.json      # Dependências e scripts do projeto
-└── README.md         # Documentação do projeto
-```
-
----
-
 ## 🧠 Tecnologias Utilizadas
 
 - [Next.js 14](https://nextjs.org)
@@ -69,11 +53,5 @@ quest-zone/
 - [TypeScript](https://www.typescriptlang.org)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
----
 
-## 📸 Screenshot
-
-> Imagem armazenada em `public/screenshot-home.png`
-
-![Screenshot da Home](https://github.com/user-attachments/assets/f6332fcd-23fd-4148-871d-8287cf433b33)
 
